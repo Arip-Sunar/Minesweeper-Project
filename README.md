@@ -56,7 +56,7 @@ Minesweeper/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/minesweeper.git
+git clone https://github.com/Arip-Sunar/minesweeper.git
 ```
 
 2. Navigate to the project directory.
@@ -117,6 +117,6 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Your Name**
+**Arip Sunar**
 
-GitHub: https://github.com/your-username
+GitHub: (https://github.com/Arip-Sunar)
